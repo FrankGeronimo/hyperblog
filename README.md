@@ -31,6 +31,7 @@
 * Todo lo anterior y hay mas por aprender.
 
 * Thanks everyone
+* Continuaré.
 
 > Como un amable recordatorio este Readme.md También ha sido una práctica, Nice to meet you, See you soon 👋.
 > - Frank
