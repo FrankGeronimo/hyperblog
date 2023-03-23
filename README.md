@@ -29,12 +29,10 @@
 * collaborators
 * Readme.md
 * Todo lo anterior y hay mas por aprender.
-<<<<<<< HEAD
-=======
 
 * Thanks everyone
 * Continuaré.
->>>>>>> readme-mejorado
+
 
 > Como un amable recordatorio este Readme.md También ha sido una práctica, Nice to meet you, See you soon 👋.
 > - Frank
